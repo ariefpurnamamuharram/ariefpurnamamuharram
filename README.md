@@ -22,10 +22,11 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![Pycharm](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/pycharm.png)
 ![Visual Studio Code](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/vscode.png)
 ![Git](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/git.png)
-![Composer](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/composer.png)
+![Jupyter](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/jupyter.png)
 ![MySQL](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/mysql.png)
 ![PHPMyAdmin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/phpmyadmin.png)
 ![NginX](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/nginx.jpeg)
+![Composer](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/composer.png)
 ![XAMPP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xampp.png)
 
 ### Contact me
