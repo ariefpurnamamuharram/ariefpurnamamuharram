@@ -1,4 +1,9 @@
-### Hi there 👋
+### Tools
+![Android Studio](icons/android_studio.png)
+![Xcode](icons/xcode.png)
+![PhpStorm](icons/phpstorm.png)
+![Pycharm](icons/pycharm.png)
+![XAMPP](icons/xampp.png)
 
 <!--
 **ariefpurnamamuharram/ariefpurnamamuharram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
