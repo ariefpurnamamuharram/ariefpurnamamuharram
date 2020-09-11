@@ -1,6 +1,12 @@
 ### Hay there... ✨😄✨
 Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a medical student at Faculty of Medicine Universitas Indonesia (FKUI). I really love with programming stuffs, especially on mobile programming. Currently also have several on going projects on backend development. Interested in providing technological solutions in medical problems. If you have several questions or want to make a collaboration, let me know it. 😁💬
 
+### Projects I'm working on
+![DM EduCorner](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner.png)
+![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)
+![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)
+![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
+
 ### Languages
 ![Kotlin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/kotlin.png)
 ![Swift](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/swift.png)
