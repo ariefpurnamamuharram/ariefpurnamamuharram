@@ -14,7 +14,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![iOS](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/ios.png)
 ![Laravel](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/laravel.png)
 
-### Tools and Softwares
+### Tools and softwares
 ![Android Studio](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/android_studio.png)
 ![Xcode](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xcode.png)
 ![IntelliJ](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/intellij.png)
@@ -27,3 +27,6 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![PHPMyAdmin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/phpmyadmin.png)
 ![NginX](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/nginx.jpeg)
 ![XAMPP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xampp.png)
+
+### Contact me
+✉️ Email: ariefpurnamamuharram@gmail.com
