@@ -6,6 +6,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![DM EduCorner for Contributors](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner_contributors.png)
 ![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)
 ![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)
+![CardiAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cardiassist.png)
 ![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
 
 ### Languages
