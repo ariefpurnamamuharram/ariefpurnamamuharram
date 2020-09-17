@@ -9,6 +9,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![CardiAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cardiassist.png)
 ![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
 ![e-IKM. BEM IKM FKUI](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/eikm.png)
+![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)
 
 ### Languages
 ![Kotlin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/kotlin.png)
