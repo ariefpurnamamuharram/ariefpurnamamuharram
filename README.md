@@ -20,6 +20,8 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![PHP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/php.png)
 ![Python](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/python.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefpurnamamuharram&theme=tokyonight)
+
 ### Frameworks
 ![Android](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/android.png)
 ![iOS](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/ios.png)
