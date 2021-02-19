@@ -26,12 +26,12 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks
-![Android](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/android.png)
-![iOS](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/ios.png)
-![Laravel](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/laravel.png)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Cloud services
-![Google Cloud Products](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/gcp.png)
+![Google Cloud Products](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Tools and softwares
 ![Android Studio](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/android_studio.png)
