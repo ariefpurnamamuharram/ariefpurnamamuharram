@@ -48,9 +48,14 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![XAMPP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xampp.png)
 ![Git](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/git.png)
 
+### Workspaces
+![Acer Nitro 5](https://img.shields.io/badge/Windows-Acer_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacBook Air 2019](https://img.shields.io/badge/Apple-MacBook_Air_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
+![NVidia GTX 1060](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ### Contact me
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariefpurnamamuharram@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arief13597)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariefpm13597/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariefpm13597)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariefpurnamamuharram)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arief1997)
