@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)
 ![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)
 ![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
-[![e-IKM. BEM IKM FKUI](http://e-ikm.fk.ui.ac.id)](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/eikm.png)
+[![e-IKM. BEM IKM FKUI](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/eikm.png)](http://e-ikm.fk.ui.ac.id)
 ![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)
 ![Metabolik Endokrin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/metabolik-endokrin.png)
 
