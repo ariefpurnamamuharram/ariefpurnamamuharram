@@ -5,13 +5,13 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefpurnamamuharram&show_icons=true&theme=default)
 
 ### Projects I'm working on
-![DM EduCorner](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner.png)
-![DM EduCorner for Contributors](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner_contributors.png)
-![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)
-![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)
+[![DM EduCorner](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmeducorner)
+[![DM EduCorner for Contributors](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner_contributors.png)](https://play.google.com/store/apps/dev?id=4969433000401706399)
+[![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmnutriassist)
+[![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmmdassist)
 ![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
 [![e-IKM. BEM IKM FKUI](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/eikm.png)](http://e-ikm.fk.ui.ac.id)
-![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)
+[![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)](https://prism-ika.com/)
 ![Metabolik Endokrin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/metabolik-endokrin.png)
 
 ### Languages
