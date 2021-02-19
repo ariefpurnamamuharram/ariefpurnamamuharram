@@ -48,4 +48,5 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![Git](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/git.png)
 
 ### Contact me
-✉️ Email: ariefpurnamamuharram@gmail.com
+Email: ariefpurnamamuharram@gmail.com
+LinkedIn: https://linkedin.com/in/ariefpurnamamuharram
