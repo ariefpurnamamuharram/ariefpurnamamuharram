@@ -28,6 +28,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ### Frameworks
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Cloud services
@@ -48,7 +49,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ![XAMPP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xampp.png)
 ![Git](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/git.png)
 
-### Workspaces
+### Workspace
 ![Acer Nitro 5](https://img.shields.io/badge/Windows-Acer_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacBook Air 2019](https://img.shields.io/badge/Apple-MacBook_Air_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![NVidia GTX 1060](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
