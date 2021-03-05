@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 [![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)](https://prism-ika.com)
 ![Metabolik Endokrin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/metabolik-endokrin.png)
 
-### Languages
+### Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
