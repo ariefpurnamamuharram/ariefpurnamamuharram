@@ -1,5 +1,5 @@
 ### Hay there... ✨😄✨
-Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a medical student at Faculty of Medicine Universitas Indonesia (FKUI). I really love with programming stuffs, especially on mobile programming. Currently also have several on going projects on backend development. Interested in providing technological solutions in medical problems. If you have several questions or want to make a collaboration, let me know it. 😁💬
+Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I really love everything about programming stuffs, especially mobile programming. Interested in providing technological solutions in medical problems. If you have several questions or want to make a collaboration, let me know it. 😁💬
 
 ### Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefpurnamamuharram&show_icons=true&theme=default)
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I am a 
 ### Workspace
 ![Acer Nitro 5](https://img.shields.io/badge/Windows-Acer_Nitro_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacBook Air 2019](https://img.shields.io/badge/Apple-MacBook_Air_2019-999999?style=for-the-badge&logo=apple&logoColor=white)
-![NVidia GTX 1060](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVidia GTX 1050](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Contact me
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariefpurnamamuharram@gmail.com)
