@@ -1,21 +1,5 @@
-### Hay there... ✨😄✨
-Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I really love everything about programming stuffs, especially mobile programming. Interested in providing technological solutions in medical problems. If you have several questions or want to make a collaboration, let me know it. 😁💬
-
-### Overview
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefpurnamamuharram&show_icons=true&theme=default)
-
-### Projects I'm working on
-[![DiabetesLab Project](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/diabeteslab.png)](https://play.google.com/store/apps/dev?id=4969433000401706399)
-[![DM EduCorner](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmeducorner)
-[![DM EduCorner for Contributors](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_educorner_contributors.png)](https://play.google.com/store/apps/dev?id=4969433000401706399)
-[![DM NutriAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_nutriassist.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmnutriassist)
-[![DM MDAssist](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/dm_mdassist.png)](https://play.google.com/store/apps/details?id=id.diabeteslab.dmmdassist)
-[![Kampus Sehatku](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/kampus_sehatku.png)](https://kampus-sehatku.diabeteslab.id)
-![CerviCam](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/cervicam.png)
-[![PT. Rezeki Lautan Abadi](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/rezeki_lautan_abadi.png)](https://rezekilautanabadi.com)
-[![e-IKM. BEM IKM FKUI](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/eikm.png)](http://e-ikm.fk.ui.ac.id)
-[![PRISM Dept. IKA FKUI-RSCM](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/prism.png)](https://prism-ika.com)
-![Metabolik Endokrin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/metabolik-endokrin.png)
+### Introduction
+Arief Purnama Muharram (Arief) is an individual with a profound interest in the intersecting fields of medicine and technology. He received his Bachelor's degree in Medical Science in 2019 and his Medical Professional degree (M.D.) in 2022 from the Faculty of Medicine, Universitas Indonesia. In 2024, he earned a Master of Science in Informatics from the School of Electrical Engineering and Informatics, Institut Teknologi Bandung. Throughout this period, he has dedicated his intellect, energy, and time to generating numerous innovative ideas and solutions aimed at enhancing healthcare through technological advancements.
 
 ### Skills
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -38,7 +22,6 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I reall
 ### Tools and softwares
 ![Android Studio](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/android_studio.png)
 ![Xcode](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xcode.png)
-![IntelliJ](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/intellij.png)
 ![PhpStorm](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/phpstorm.png)
 ![Pycharm](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/pycharm.png)
 ![Visual Studio Code](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/vscode.png)
@@ -46,8 +29,6 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I reall
 ![MySQL](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/mysql.png)
 ![PHPMyAdmin](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/phpmyadmin.png)
 ![NginX](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/nginx.jpeg)
-![Composer](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/composer.png)
-![XAMPP](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/xampp.png)
 ![Git](https://raw.githubusercontent.com/ariefpurnamamuharram/ariefpurnamamuharram/master/icons/git.png)
 
 ### Workspace
@@ -57,7 +38,5 @@ Welcome to my GitHub profile! 😁 My name is Arief Purnama Muharram and I reall
 
 ### Contact me
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariefpurnamamuharram@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arief13597)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariefpm13597)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariefpurnamamuharram)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arief1997)
